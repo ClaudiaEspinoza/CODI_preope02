@@ -1,3 +1,4 @@
 # CODI_preope02
 aprendiendo Git
-jdajsdhjakshdjkashdjashdkj
+
+estoy escribiendo desde github
